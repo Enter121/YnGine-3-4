@@ -1,0 +1,3 @@
+newmtl Material
+map_Kd barrel.png
+map_Bump barrelNormal.png
